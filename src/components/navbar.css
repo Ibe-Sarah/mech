@@ -1,0 +1,35 @@
+
+.links{
+    display: flex;
+    /* justify-content: space-around; */
+    gap: 2em;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #404040;
+}
+
+.imgsearch{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 3em;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    gap: 3em;
+}
+.navbar>.container-fluid{
+    display: flex;
+    justify-content: space-around !important;
+}
+[type=search]:active{
+    border: none !important;
+    width: 70%;
+}
+[type=search]{
+    width: 25em !important;
+}

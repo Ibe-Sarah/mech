@@ -1,0 +1,28 @@
+
+.cards-serve{
+    padding-top: 15em;
+    padding-bottom: 5em;
+}.cards-one{
+    display: flex;
+    justify-content: center !important;
+    padding-top: 5em;
+    width: 60%;
+     column-gap: 5em;
+margin-right: auto;
+margin-left: auto;
+}
+.cards-one h4{
+    font-family: 'Poppins', sans-serif;
+    color: #001A42;
+    font-weight: 600;
+}
+.cards-one p{
+    font-family: 'Archivo', sans-serif;
+    color: #001A42;
+    font-weight: 600;
+    /* width: 0%; */
+    font-size: 0.9em;
+}
+.cards-one img{
+    width:25em;
+}

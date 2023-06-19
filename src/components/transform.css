@@ -1,0 +1,25 @@
+.trans{
+    position: relative !important;
+    bottom: 70% !important;
+    z-index: 10000;
+    margin-top: -15em;
+    text-align: center;
+    }
+    .trans h3{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        color: white;
+        font-size: 2.5em;
+        padding-bottom: 1.5em;
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+    .trans button{
+        font-family: 'Poppins', sans-serif;
+        background-color: #003E9C;
+        border: 2px solid #0D59CB;
+        color: white;
+        padding: 0.6em;
+        border-radius: 5px;
+    }
+    

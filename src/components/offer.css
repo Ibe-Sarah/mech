@@ -1,0 +1,29 @@
+.card-offer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    width: 70%;
+    row-gap: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    text-align: center;
+;
+    
+}
+.card-offer .card{
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    border: none;
+
+}
+.offerh3{
+    background-color: #EBEBEB;
+    padding-top: 10em;
+    padding-bottom: 2em;
+
+}
+.offerh3 h3{
+    font-family: 'Poppins', sans-serif;
+    color: #001A42;
+    font-weight: bold;
+}

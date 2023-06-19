@@ -1,0 +1,18 @@
+.cog{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding-top: 15em;
+}
+.cog img{
+    width: 15em;
+    height: 15em;
+}
+.cog p{
+    text-align: left;
+    font-family: 'Archivo', sans-serif;
+    color: #001A42;
+    font-weight: 500;
+    padding-top: 3em;
+    width: 30%;
+}

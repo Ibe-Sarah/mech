@@ -1,0 +1,43 @@
+.card-clients{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    width: 40%;
+    gap: 1em;
+    justify-content: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.clienth3 h3{
+    font-family: 'Poppins', sans-serif;
+    color: #001A42;
+    font-weight: bold;
+    padding-top: 3em;
+}
+.clienth3{
+    background-color: #F9F9F9;
+}
+.card-clients .card{
+    border: none;
+    box-shadow: 0px 8px 16px -4px rgba(0, 0, 0, 0.33);
+    border-radius: 10px;
+    padding: 2em;
+
+}
+.clienth3 button{
+    border: 1px solid #0D59CB;
+    background-color: #003E9C;
+    color: #FFFFFF;
+    padding: 0.5em;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 37em !important;
+    margin-top: 2em !important;
+    padding-left: 2em;
+    padding-right: 2em;
+    margin-bottom: 2em;
+    
+}

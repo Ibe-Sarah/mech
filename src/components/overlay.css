@@ -1,0 +1,64 @@
+.exp{
+position: relative !important;
+bottom: 70% !important;
+z-index: 10000;
+margin-top: -25em;
+text-align: center;
+}
+.exp h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 3em;
+
+}
+.exp p{
+    font-family: 'Archivo', sans-serif;
+    color: white;
+    padding-bottom: 2em;
+    font-size: 1.5em;
+}
+.exp button{
+    font-family: 'Poppins', sans-serif;
+    background-color: #003E9C;
+    border: 2px solid #0D59CB;
+    color: white;
+    padding: 0.6em;
+    border-radius: 5px;
+}
+.identity{
+    background-color: #E8E8E8;
+    border-radius: 10px;
+    width: 53%;
+    margin-top: 10em;
+    z-index: 10000;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.identity h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: #001A42;
+   
+}
+.identity p{
+    font-family: 'Archivo', sans-serif;
+    padding-top: 1em;
+    color: #001A42;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.identity button{
+    font-family: 'Archivo', sans-serif;
+    color: #001A42;
+    background-color: #FFFFFF;
+    border: 1px solid #0669B9;
+}
