@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c993ca92.css",
-    "main.js": "/static/js/main.27bd9e1c.js",
-    "static/js/787.0e48bd8f.chunk.js": "/static/js/787.0e48bd8f.chunk.js",
-    "static/media/Group 2608685 (1).png": "/static/media/Group 2608685 (1).99a434d3789e0bf21ae7.png",
-    "static/media/hand.png": "/static/media/hand.c47b460363dabfcda94b.png",
-    "static/media/appointment.png": "/static/media/appointment.1c1c717e5378962a55aa.png",
-    "static/media/transform.png": "/static/media/transform.887c00cc51eacbc9194c.png",
-    "static/media/maintain.png": "/static/media/maintain.5eed08bc160af5032706.png",
-    "static/media/customise.png": "/static/media/customise.ba4a260e7eed55e8b4e7.png",
-    "static/media/mechanic-servicing-car 1.png": "/static/media/mechanic-servicing-car 1.d6e77ca8360dbf87ea2a.png",
-    "static/media/accident.png": "/static/media/accident.492aad81d72b4aa9bce3.png",
-    "static/media/car-painting.png": "/static/media/car-painting.e20f3d755c2357b165e3.png",
-    "static/media/cog.png": "/static/media/cog.d2e1f97017db9cd28434.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.c993ca92.css.map": "/static/css/main.c993ca92.css.map",
-    "main.27bd9e1c.js.map": "/static/js/main.27bd9e1c.js.map",
-    "787.0e48bd8f.chunk.js.map": "/static/js/787.0e48bd8f.chunk.js.map"
+    "main.css": "/mech/static/css/main.c993ca92.css",
+    "main.js": "/mech/static/js/main.b4834791.js",
+    "static/js/787.0e48bd8f.chunk.js": "/mech/static/js/787.0e48bd8f.chunk.js",
+    "static/media/Group 2608685 (1).png": "/mech/static/media/Group 2608685 (1).99a434d3789e0bf21ae7.png",
+    "static/media/hand.png": "/mech/static/media/hand.c47b460363dabfcda94b.png",
+    "static/media/appointment.png": "/mech/static/media/appointment.1c1c717e5378962a55aa.png",
+    "static/media/transform.png": "/mech/static/media/transform.887c00cc51eacbc9194c.png",
+    "static/media/maintain.png": "/mech/static/media/maintain.5eed08bc160af5032706.png",
+    "static/media/customise.png": "/mech/static/media/customise.ba4a260e7eed55e8b4e7.png",
+    "static/media/mechanic-servicing-car 1.png": "/mech/static/media/mechanic-servicing-car 1.d6e77ca8360dbf87ea2a.png",
+    "static/media/accident.png": "/mech/static/media/accident.492aad81d72b4aa9bce3.png",
+    "static/media/car-painting.png": "/mech/static/media/car-painting.e20f3d755c2357b165e3.png",
+    "static/media/cog.png": "/mech/static/media/cog.d2e1f97017db9cd28434.png",
+    "static/media/logo.svg": "/mech/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mech/index.html",
+    "main.c993ca92.css.map": "/mech/static/css/main.c993ca92.css.map",
+    "main.b4834791.js.map": "/mech/static/js/main.b4834791.js.map",
+    "787.0e48bd8f.chunk.js.map": "/mech/static/js/787.0e48bd8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c993ca92.css",
-    "static/js/main.27bd9e1c.js"
+    "static/js/main.b4834791.js"
   ]
 }
